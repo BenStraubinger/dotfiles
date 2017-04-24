@@ -1,2 +1,2 @@
 # dotfiles
-My personal dotfiles (OS: Fedora 23 x64)
+My personal dotfiles (OS: Fedora 25 x64)
